@@ -1,0 +1,2 @@
+# Master
+http://ircmaster.org
